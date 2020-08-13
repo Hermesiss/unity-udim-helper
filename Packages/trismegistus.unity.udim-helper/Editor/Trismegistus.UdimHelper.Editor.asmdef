@@ -1,0 +1,17 @@
+{
+    "name": "Trismegistus.UdimHelper.Editor",
+    "references": [
+        "GUID:8628b921c39e6f147bf8cac592352a8d"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

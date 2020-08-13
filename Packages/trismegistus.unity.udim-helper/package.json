@@ -1,0 +1,15 @@
+{
+  "name": "trismegistus.unity.udim-helper",
+  "displayName": "Trismegistus Udim Helper",
+  "version": "0.0.2",
+  "unity": "2019.3",
+  "description" : "Helper for mapping textures to materials for models with UDIM",
+  "author": {
+    "name": "Hermesis",
+    "email": "hermesiss@gmail.com",
+    "url": "https://github.com/Hermesiss"
+  },"homepage": "https://github.com/Hermesiss/unity-udim-helper",
+  "bugs": {
+    "url": "https://github.com/Hermesiss/unity-udim-helper/issues"
+  }
+}

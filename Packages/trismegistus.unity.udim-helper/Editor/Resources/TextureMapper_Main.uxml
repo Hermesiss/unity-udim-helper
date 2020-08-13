@@ -1,0 +1,10 @@
+<UXML xmlns="UnityEngine.UIElements">
+    <!-- Creates our template and gives it a name for future reference. -->
+    <Template path="Packages/trismegistus.unity.udim-helper/Editor/Resources/ButtonTemplate.uxml" name="button-template" />
+    <!-- Creates a parent VisualElement in which we will add our template. -->
+    <VisualElement class="buttons-container">
+        <!-- Instantiates the template multiple times. Each time, we give it a name and a class for future reference. -->
+        <Instance template="button-template" name="shader"/>
+        <Instance template="button-template" name="texture"/>        
+    </VisualElement>
+</UXML>
